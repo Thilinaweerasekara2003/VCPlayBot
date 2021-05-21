@@ -23,7 +23,7 @@ Maintained by @GangOfMafiateem ❤
             [
                 [
                     InlineKeyboardButton(
-                        "🌍 Music World", url="https://t.me/GIRLS_AND_BOYS_CHATTING",
+                        "🌍 Music World", url="https://t.me/Gangofmafiateem",
                     )
                 ],
                 [
