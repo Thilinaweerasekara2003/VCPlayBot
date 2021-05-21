@@ -13,7 +13,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name}!
 \nI can play music in your group's voice chat
-Maintained by @HEROGAMERS1 ❤
+Maintained by @GangOfMafiateem ❤
 \nTo add in your group contact us at@GangOfMafiaTeem.
 \nHit /help list of available commands.
  </b>""",
@@ -34,7 +34,7 @@ Maintained by @HEROGAMERS1 ❤
                         "🔊 Channel", url="https://t.me/hitecobotchanal"
                     ),
                     InlineKeyboardButton(
-                        "💾 Source code",url="
+                        "💾 Source code",url="https://github.com/Thilinaweerasekara2003/VCPlayBot"
                     )
                 ],
                 [
@@ -58,7 +58,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/LaylaList"
+                        "🔊 Channel", url="https://t.me/hitecobotchanal"
                     )
                 ],    
                 [    
